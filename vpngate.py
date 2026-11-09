@@ -58,9 +58,6 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "ProxyIP.HK.CMLiussss.net:443",
-    "ProxyIP.GB.CMLiussss.net:443",
-    "tw.william.us.ci:443",
     "saas.sin.fan:443",
     "www.mfyx.cn:443",
     "cf.nyanya.moe:443",
